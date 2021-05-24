@@ -13,7 +13,7 @@ Result: 1 ball</br>
 OUT: no matched numbers</br>
 >Your Number: [1,2,3]</br>
 Answer: [4,5,6]</br>
-Result: OUT1 ball</br>
+Result: OUT</br>
 
 ## Rule
 Total numbers are three</br>
